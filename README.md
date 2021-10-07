@@ -12,7 +12,7 @@
 
 -   My portfolio website https://mithila-portfolio.herokuapp.com/
 
-_   LinkedIn www.linkedin.com/in/mithila-dilshan
+-   LinkedIn www.linkedin.com/in/mithila-dilshan
 
 -   Thaulla bojun - https://thaulla-bojun.herokuapp.com/
 
