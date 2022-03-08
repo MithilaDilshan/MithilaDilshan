@@ -2,7 +2,7 @@
 
 -👋 Hi, I’m @MithilaDilshan
 
--👀 I’m interested in Software Engineering
+-👀 I’m interested in Quality Assuarance engineer
 
 -🌱 I’m currently learning at Sri Lanka Institute of Information Technology
 
